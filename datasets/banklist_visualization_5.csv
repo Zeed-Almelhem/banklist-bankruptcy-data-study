@@ -1,0 +1,567 @@
+City,Bank Name,Acquiring Institution,State,Latitude,Longitude,Closing Date
+San Francisco,First Republic Bank,"JPMorgan Chase Bank, N.A.",CA,37.7790262,-122.419906,2023-05-01
+New York,Signature Bank,"Flagstar Bank, N.A.",NY,40.7127281,-74.0060152,2023-03-12
+Santa Clara,Silicon Valley Bank,FirstCitizens Bank & Trust Company,CA,37.2333253,-121.6846349,2023-03-10
+Almena,Almena State Bank,Equity Bank,KS,39.892229,-99.707058,2020-10-23
+Fort Walton Beach,First City Bank of Florida,"United Fidelity Bank, fsb",FL,30.4057552,-86.618842,2020-10-16
+Barboursville,The First State Bank,"MVB Bank, Inc.",WV,38.4095298,-82.2945923,2020-04-03
+Ericson,Ericson State Bank,Farmers and Merchants Bank,NE,41.7799242,-98.6785815,2020-02-14
+Newark,City National Bank of New Jersey,Industrial Bank,NJ,40.735657,-74.1723667,2019-11-01
+Maumee,Resolute Bank,Buckeye State Bank,OH,41.5628294,-83.6538244,2019-10-25
+Louisa,Louisa Community Bank,Kentucky Farmers Bank Corporation,KY,38.1144867,-82.6030988,2019-10-25
+Cooper,The Enloe State Bank,"Legend Bank, N. A.",TX,33.3721434,-95.6877086,2019-05-31
+Chicago,Washington Federal Bank for Savings,Royal Savings Bank,IL,41.8755616,-87.6244212,2017-12-15
+Argonia,The Farmers and Merchants State Bank of Argonia,Conway Bank,KS,37.265854,-97.7656092,2017-10-13
+Saint Elmo,Fayette County Bank,"United Fidelity Bank, fsb",IL,39.0272663,-88.8481139,2017-05-26
+Milwaukee,"Guaranty Bank, (d/b/a BestBank in Georgia & Michigan)",First-Citizens Bank & Trust Company,WI,43.0349931,-87.922497,2017-05-05
+New Orleans,First NBC Bank,Whitney Bank,LA,29.9759983,-90.0782127,2017-04-28
+Cottonwood Heights,Proficio Bank,Cache Valley Bank,UT,40.613474,-111.8256464,2017-03-03
+Chicago,Seaway Bank and Trust Company,State Bank of Texas,IL,41.8755616,-87.6244212,2017-01-27
+Pennsville,Harvest Community Bank,First-Citizens Bank & Trust Company,NJ,39.6502715,-75.50833325636759,2017-01-13
+Mulberry,Allied Bank,Today's Bank,AR,35.5006417,-94.0515919,2016-09-23
+Woodbury,The Woodbury Banking Company,United Bank,GA,32.9837394,-84.5827031,2016-08-19
+King of Prussia,First CornerStone Bank,First-Citizens Bank & Trust Company,PA,40.09476245,-75.3851333563417,2016-05-06
+Memphis,Trust Company Bank,The Bank of Fayette County,TN,35.1460249,-90.0517638,2016-04-29
+Milwaukee,North Milwaukee State Bank,First-Citizens Bank & Trust Company,WI,43.0349931,-87.922497,2016-03-11
+Longview,Hometown National Bank,Twin City Bank,WA,46.1377048,-122.934462,2015-10-02
+Peachtree City,The Bank of Georgia,Fidelity Bank,GA,33.3967829,-84.5957629,2015-10-02
+Denver,Premier Bank,"United Fidelity Bank, fsb",CO,39.7392364,-104.984862,2015-07-10
+Chicago,Edgebrook Bank,Republic Bank of Chicago,IL,41.8755616,-87.6244212,2015-05-08
+San Juan,Doral Bank,Banco Popular de Puerto Rico,PR,18.465299,-66.116666,2015-02-27
+Atlanta,Capitol City Bank & Trust Company,First-Citizens Bank & Trust Company,GA,33.7489924,-84.3902644,2015-02-13
+Chicago,Highland Community Bank,"United Fidelity Bank, fsb",IL,41.8755616,-87.6244212,2015-01-23
+Crestview,First National Bank of Crestview,First NBC Bank,FL,30.7621326,-86.5705084,2015-01-16
+Mankato,Northern Star Bank,BankVista,MN,44.1634663,-93.9993505,2014-12-19
+Palm Desert,"Frontier Bank, FSB D/B/A El Paseo Bank","Bank of Southern California, N.A.",CA,33.7288179,-116.382571,2014-11-07
+Chicago,The National Republic Bank of Chicago,State Bank of Texas,IL,41.8755616,-87.6244212,2014-10-24
+Rising Sun,NBRS Financial,Howard Bank,MD,39.6980597,-76.0628964,2014-10-17
+Chicago,"GreenChoice Bank, fsb","Providence Bank, LLC",IL,41.8755616,-87.6244212,2014-07-25
+Conyers,Eastside Commercial Bank,Community & Southern Bank,GA,33.6676103,-84.0176904,2014-07-18
+Freedom,The Freedom State Bank,Alva State Bank & Trust Company,OK,36.7692966,-99.1133631,2014-06-27
+Fort Lauderdale,Valley Bank,"Landmark Bank, National Association",FL,26.1223084,-80.1433786,2014-06-20
+Moline,Valley Bank,Great Southern Bank,IL,41.5058344,-90.5136642,2014-06-20
+Bel Air,Slavie Federal Savings Bank,"Bay Bank, FSB",MD,39.5355063,-76.3490396,2014-05-30
+Cincinnati,Columbia Savings Bank,"United Fidelity Bank, fsb",OH,39.1014537,-84.5124602,2014-05-23
+Berwyn,AztecAmerica Bank,Republic Bank of Chicago,IL,41.8505874,-87.7936685,2014-05-16
+Fairfax,Allendale County Bank,Palmetto State Bank,SC,32.9585379,-81.2372124,2014-04-25
+Horsham,Vantage Point Bank,First Choice Bank,PA,40.1842455,-75.13905239078957,2014-02-28
+Sterling,"Millennium Bank, National Association",WashingtonFirst Bank,VA,39.003809849999996,-77.40832792370676,2014-02-28
+Boise,Syringa Bank,Sunwest Bank,ID,43.6008183,-116.24210864118032,2014-01-31
+El Reno,The Bank of Union,BancFirst,OK,35.532198,-97.9550578,2014-01-24
+West Chicago,DuPage National Bank,Republic Bank of Chicago,IL,41.8847507,-88.2039607,2014-01-17
+The Woodlands,"Texas Community Bank, National Association","Spirit of Texas Bank, SSB",TX,30.1734194,-95.504686,2013-12-13
+Graceville,Bank of Jackson County,First Federal Bank of Florida,FL,30.96015375,-85.51052263287673,2013-10-30
+Edinburg,First National Bank also operating as The National Bank of El Paso,PlainsCapital Bank,TX,26.3013982,-98.1624501,2013-09-13
+Bridgeport,The Community's Bank,No Acquirer,CT,41.1670412,-73.2048348,2013-09-13
+Phoenix,Sunrise Bank of Arizona,"First Fidelity Bank, National Association",AZ,33.4484367,-112.074141,2013-08-23
+Parsons,Community South Bank,"CB&S Bank, Inc.",TN,35.649791,-88.1267025,2013-08-23
+Wausau,Bank of Wausau,Nicolet National Bank,WI,44.9596017,-89.6298239,2013-08-09
+Fort Myers,First Community Bank of Southwest Florida (also operating as Community Bank of Cape Coral),C1 Bank,FL,26.640628,-81.8723084,2013-08-02
+Sevierville,Mountain National Bank,"First Tennessee Bank, National Association",TN,35.8681455,-83.561835,2013-06-07
+North Las Vegas,1st Commerce Bank,Plaza Bank,NV,36.2005843,-115.121584,2013-06-06
+Kenosha,Banks of Wisconsin d/b/a Bank of Kenosha,"North Shore Bank, FSB",WI,42.5846773,-87.8212263,2013-05-31
+Scottsdale,Central Arizona Bank,Western State Bank,AZ,33.4942189,-111.926018,2013-05-14
+Valdosta,Sunrise Bank,Synovus Bank,GA,30.8327022,-83.2784851,2013-05-10
+Asheville,Pisgah Community Bank,"Capital Bank, N.A.",NC,35.595076,-82.5528478,2013-05-10
+Douglasville,Douglas County Bank,Hamilton State Bank,GA,33.7514966,-84.7477136,2013-04-26
+Lenoir,Parkway Bank,"CertusBank, National Association",NC,35.2590371,-77.6484879,2013-04-26
+Marianna,Chipola Community Bank,First Federal Bank of Florida,FL,30.7743596,-85.2268735,2013-04-19
+Orange Park,Heritage Bank of North Florida,FirstAtlantic Bank,FL,30.1654707,-81.7016346,2013-04-19
+Lexington,First Federal Bank,Your Community Bank,KY,38.0464066,-84.4970393,2013-04-19
+Gold Canyon,Gold Canyon Bank,"First Scottsdale Bank, National Association",AZ,33.3710715,-111.42618498017515,2013-04-05
+LaGrange,Frontier Bank,HeritageBank of the South,GA,33.039291,-85.0313269,2013-03-08
+Chicago,Covenant Bank,Liberty Bank and Trust Company,IL,41.8755616,-87.6244212,2013-02-15
+Andover,1st Regents Bank,First Minnesota Bank,MN,45.2332985,-93.2913405,2013-01-18
+University Place,Westside Community Bank,Sunwest Bank,WA,47.2368034,-122.552067,2013-01-11
+Sunrise Beach,Community Bank of the Ozarks,Bank of Sullivan,MO,38.1758645,-92.7843553,2012-12-14
+Braselton,Hometown Community Bank,"CertusBank, National Association",GA,34.1092735,-83.7626729,2012-11-16
+Princeton,Citizens First National Bank,Heartland Bank and Trust Company,IL,41.368092,-89.4648145,2012-11-02
+Lutz,Heritage Bank of Florida,Centennial Bank,FL,28.1300994,-82.45918424070945,2012-11-02
+Berwyn,NOVA Bank,No Acquirer,PA,40.0448306,-75.4388053,2012-10-26
+Sedalia,Excel Bank,Simmons First National Bank,MO,38.7098314,-93.2295515,2012-10-19
+Tamarac,First East Side Savings Bank,Stearns Bank N.A.,FL,26.2128609,-80.2497707,2012-10-19
+Destin,GulfSouth Private Bank,SmartBank,FL,30.3935337,-86.4957834,2012-10-19
+Crete,First United Bank,"Old Plank Trail Community Bank, National Association",IL,41.4445334,-87.6313829,2012-09-28
+St. Louis,Truman Bank,Simmons First National Bank,MO,38.6280278,-90.1910154,2012-09-14
+Bloomington,First Commercial Bank,Republic Bank & Trust Company,MN,44.8322405,-93.3204872,2012-09-07
+Waukegan,Waukegan Savings Bank,First Midwest Bank,IL,42.3636331,-87.8447938,2012-08-03
+Jasper,Jasper Banking Company,Stearns Bank N.A.,GA,33.3254635,-83.6868559,2012-07-27
+Chicago,Second Federal Savings and Loan Association of Chicago,Hinsdale Bank & Trust Company,IL,41.8755616,-87.6244212,2012-07-20
+Leawood,Heartland Bank,Metcalf Bank,KS,38.966673,-94.6169012,2012-07-20
+Woodstock,First Cherokee State Bank,Community & Southern Bank,GA,34.1014112,-84.5192192,2012-07-20
+Buford,Georgia Trust Bank,Community & Southern Bank,GA,34.1206564,-84.0043513,2012-07-20
+Naples,The Royal Palm Bank of Florida,First National Bank of the Gulf Coast,FL,26.1421976,-81.7942944,2012-07-20
+Glasgow,Glasgow Savings Bank,Regional Missouri Bank,MO,39.2255213,-92.8435384,2012-07-13
+Ailey,Montgomery Bank & Trust,Ameris Bank,GA,32.1874042,-82.5656886,2012-07-06
+Lynchburg,The Farmers Bank of Lynchburg,Clayton Bank and Trust,TN,35.2831727,-86.3739827,2012-06-15
+Marietta,Security Exchange Bank,Fidelity Bank,GA,33.9528472,-84.5496148,2012-06-15
+Palatka,Putnam State Bank,Harbor Community Bank,FL,29.6487882,-81.6372111,2012-06-15
+Whiteville,Waccamaw Bank,First Community Bank,NC,34.3387802,-78.7030721,2012-06-08
+Shabbona,Farmers' and Traders' State Bank,First State Bank,IL,41.7680851,-88.8770311,2012-06-08
+Charleston,Carolina Federal Savings Bank,Bank of North Carolina,SC,32.7884363,-79.9399309,2012-06-08
+Kingfisher,First Capital Bank,F & M Bank,OK,35.9471931,-97.9641244,2012-06-08
+Sylacauga,"Alabama Trust Bank, National Association",Southern States Bank,AL,33.1731716,-86.2516406,2012-05-18
+North Lauderdale,"Security Bank, National Association",Banesco USA,FL,26.217305,-80.2258811,2012-05-04
+Palm Desert,Palm Desert National Bank,Pacific Premier Bank,CA,33.7288179,-116.382571,2012-04-27
+Pawleys Island,Plantation Federal Bank,First Federal Bank,SC,33.4293486,-79.1215912,2012-04-27
+Maple Grove,"Inter Savings Bank, fsb D/B/A InterBank, fsb",Great Southern Bank,MN,45.0984983,-93.4419222,2012-04-27
+Gaithersburg,HarVest Bank of Maryland,Sonabank,MD,39.1399187,-77.1929215,2012-04-27
+Cambridge,Bank of the Eastern Shore,No Acquirer,MD,38.5714624,-76.0763177,2012-04-27
+Fort Lee,"Fort Lee Federal Savings Bank, FSB",Alma Bank,NJ,40.8509333,-73.9701382,2012-04-20
+Dearborn,Fidelity Bank,The Huntington National Bank,MI,42.3222599,-83.1763145,2012-03-30
+Wilmette,Premier Bank,International Bank of Chicago,IL,42.0757315,-87.7193768,2012-03-23
+Rock Spring,Covenant Bank & Trust,"Stearns Bank, N.A.",GA,34.8242442,-85.2427323,2012-03-23
+Chicago,New City Bank,No Acquirer,IL,41.8755616,-87.6244212,2012-03-09
+Doraville,Global Commerce Bank,Metro City Bank,GA,33.8981579,-84.2832564,2012-03-02
+Little Falls,Home Savings of America,No Acquirer,MN,45.9763545,-94.3625024,2012-02-24
+Ellaville,Central Bank of Georgia,Ameris Bank,GA,32.2382139,-84.3090798,2012-02-24
+Shelbyville,SCB Bank,"First Merchants Bank, National Association",IN,39.5214373,-85.7769238,2012-02-10
+Hoffman Estates,Charter National Bank and Trust,"Barrington Bank & Trust Company, National Association",IL,42.0427256,-88.0792782,2012-02-10
+Knoxville,BankEast,"U.S. Bank, N.A.",TN,35.9603948,-83.9210261,2012-01-27
+Forest Lake,Patriot Bank Minnesota,First Resource Bank,MN,45.279106,-92.9851629,2012-01-27
+Franklin,Tennessee Commerce Bank,Republic Bank & Trust Company,TN,35.925206,-86.8689419,2012-01-27
+Jacksonville,First Guaranty Bank and Trust Company of Jacksonville,"CenterState Bank of Florida, N.A.",FL,30.3321838,-81.655651,2012-01-27
+Boothwyn,American Eagle Savings Bank,"Capital Bank, N.A.",PA,39.835907000000006,-75.4488451464276,2012-01-20
+Stockbridge,The First State Bank,Hamilton State Bank,GA,33.5442781,-84.2338093,2012-01-20
+Belleview,Central Florida State Bank,"CenterState Bank of Florida, N.A.",FL,29.0552507,-82.0623105,2012-01-20
+Phoenix,Western National Bank,Washington Federal,AZ,33.4484367,-112.074141,2011-12-16
+Crestview,Premier Community Bank of the Emerald Coast,Summit Bank,FL,30.7621326,-86.5705084,2011-12-16
+Lacombe,Central Progressive Bank,First NBC Bank,LA,30.3135288,-89.9431264,2011-11-18
+Johnston,Polk County Bank,Grinnell State Bank,IA,41.6731523,-93.6973395,2011-11-18
+Rockmart,Community Bank of Rockmart,Century Bank of Georgia,GA,34.0026005,-85.0416133,2011-11-10
+Saint George,SunFirst Bank,Cache Valley Bank,UT,37.104153,-113.5841313,2011-11-04
+Omaha,"Mid City Bank, Inc.",Premier Bank,NE,41.2587459,-95.9383758,2011-11-04
+Des Plaines,All American Bank,International Bank of Chicago,IL,42.0415823,-87.8873916,2011-10-28
+Greenwood Village,Community Banks of Colorado,"Bank Midwest, N.A.",CO,39.6172101,-104.950814,2011-10-21
+Jonesboro,Community Capital Bank,State Bank and Trust Company,GA,33.5215013,-84.3538128,2011-10-21
+Decatur,Decatur First Bank,Fidelity Bank,GA,30.8736613,-84.5740953,2011-10-21
+Clearwater,Old Harbor Bank,1st United Bank,FL,27.9658533,-82.8001026,2011-10-21
+Aledo,Country Bank,Blackhawk Bank & Trust,IL,41.1998568,-90.7486349,2011-10-14
+Cranford,First State Bank,Northfield Bank,NJ,40.6584358,-74.2995923,2011-10-14
+Asheville,"Blue Ridge Savings Bank, Inc.",Bank of North Carolina,NC,35.595076,-82.5528478,2011-10-14
+Gray,Piedmont Community Bank,State Bank and Trust Company,GA,33.0095802,-83.5337816,2011-10-14
+Ellington,Sun Security Bank,Great Southern Bank,MO,37.2417147,-90.9687356,2011-10-07
+Wyoming,The RiverBank,Central Bank,MN,45.3363551,-92.9971631,2011-10-07
+Plano,First International Bank,American First National Bank,TX,33.0136764,-96.6925096,2011-09-30
+Nevada City,Citizens Bank of Northern California,Tri Counties Bank,CA,39.2615606,-121.0160594,2011-09-23
+Norfolk,Bank of the Commonwealth,Southern Bank and Trust Company,VA,36.8448348,-76.2863999,2011-09-23
+Milton,The First National Bank of Florida,CharterBank,FL,30.6324149,-87.0396881,2011-09-09
+Woodstock,CreekSide Bank,Georgia Commerce Bank,GA,34.1014112,-84.5192192,2011-09-02
+Cumming,Patriot Bank of Georgia,Georgia Commerce Bank,GA,34.2073196,-84.1401926,2011-09-02
+Geneva,First Choice Bank,Inland Bank & Trust,IL,41.8875281,-88.3053525,2011-08-19
+Statesboro,First Southern National Bank,Heritage Bank of the South,GA,32.4490141,-81.7832912,2011-08-19
+Palm Beach,Lydian Private Bank,"Sabadell United Bank, N.A.",FL,26.6279798,-80.4494174,2011-08-19
+Huntingdon Valley,Public Savings Bank,"Capital Bank, N.A.",PA,40.1226101,-75.0635049,2011-08-18
+Olathe,The First National Bank of Olathe,Enterprise Bank & Trust,KS,38.8838856,-94.81887,2011-08-12
+Colfax,Bank of Whitman,Columbia State Bank,WA,41.6777241,-93.2452335,2011-08-05
+Shorewood,Bank of Shorewood,Heartland Bank and Trust Company,IL,41.5200305,-88.2017293,2011-08-05
+Evansville,Integra Bank National Association,Old National Bank,IN,37.970495,-87.5715641,2011-07-29
+Columbia,"BankMeridian, N.A.",SCBT National Association,SC,34.0007493,-81.0343313,2011-07-29
+Richmond,Virginia Business Bank,Xenith Bank,VA,37.5385087,-77.43428,2011-07-29
+Greeley,Bank of Choice,"Bank Midwest, N.A.",CO,40.4233142,-104.7091322,2011-07-22
+Sarasota,LandMark Bank of Florida,American Momentum Bank,FL,27.3365805,-82.5308545,2011-07-22
+Apollo Beach,Southshore Community Bank,American Momentum Bank,FL,27.7729445,-82.39813752699379,2011-07-22
+Prescott,Summit Bank,The Foothills Bank,AZ,34.539984,-112.468812,2011-07-15
+Port St. Lucie,First Peoples Bank,"Premier American Bank, N.A.",FL,27.2939333,-80.3503283,2011-07-15
+Stockbridge,High Trust Bank,Ameris Bank,GA,33.5442781,-84.2338093,2011-07-15
+Atlanta,One Georgia Bank,Ameris Bank,GA,33.7489924,-84.3902644,2011-07-15
+Windsor,Signature Bank,Points West Community Bank,CO,38.5471327,-122.8163802,2011-07-08
+Castle Rock,Colorado Capital Bank,First-Citizens Bank & Trust Company,CO,39.3722552,-104.8586826,2011-07-08
+Chicago,First Chicago Bank & Trust,Northbrook Bank & Trust Company,IL,41.8755616,-87.6244212,2011-07-08
+Clayton,Mountain Heritage Bank,First American Bank and Trust Company,GA,33.5204959,-84.3591713,2011-06-24
+Tampa,First Commercial Bank of Tampa Bay,Stonegate Bank,FL,27.9477595,-82.458444,2011-06-17
+Jackson,McIntosh State Bank,Hamilton State Bank,GA,34.1282559,-83.5753386,2011-06-17
+Charleston,Atlantic Bank and Trust,"First Citizens Bank and Trust Company, Inc.",SC,32.7884363,-79.9399309,2011-06-03
+Snohomish,First Heritage Bank,Columbia State Bank,WA,48.0074736,-121.7304882,2011-05-27
+Burlington,Summit Bank,Columbia State Bank,WA,40.8126922,-91.1020205,2011-05-20
+Franklin,First Georgia Banking Company,"CertusBank, National Association",GA,34.3678642,-83.2156575,2011-05-20
+Macon,Atlantic Southern Bank,"CertusBank, National Association",GA,32.8406946,-83.6324022,2011-05-20
+Cocoa Beach,Coastal Bank,"Florida Community Bank, a division of Premier American Bank, N.A.",FL,28.3194741,-80.6102592,2011-05-06
+Mount Clemens,Community Central Bank,Talmer Bank & Trust,MI,42.5972563,-82.8779754,2011-04-29
+Valdosta,The Park Avenue Bank,Bank of the Ozarks,GA,30.8327022,-83.2784851,2011-04-29
+Dallas,First Choice Community Bank,Bank of the Ozarks,GA,33.9237141,-84.8407732,2011-04-29
+Brooksville,Cortez Community Bank,"Florida Community Bank, a division of Premier American Bank, N.A.",FL,28.5552719,-82.3878709,2011-04-29
+Winter Park,First National Bank of Central Florida,"Florida Community Bank, a division of Premier American Bank, N.A.",FL,28.5977707,-81.3510264,2011-04-29
+Carthage,Heritage Banking Group,Trustmark National Bank,MS,32.7326356,-89.5361825,2011-04-15
+Rosemount,Rosemount National Bank,Central Bank,MN,44.7391873,-93.12611,2011-04-15
+Birmingham,Superior Bank,"Superior Bank, National Association",AL,33.5206824,-86.8024326,2011-04-15
+Birmingham,Nexity Bank,AloStar Bank of Commerce,AL,33.5206824,-86.8024326,2011-04-15
+East Ellijay,New Horizons Bank,Citizens South Bank,GA,34.6839746,-84.4727049,2011-04-15
+Cartersville,Bartow County Bank,Hamilton State Bank,GA,34.1652304,-84.7997613,2011-04-15
+Las Vegas,Nevada Commerce Bank,City National Bank,NV,36.1672559,-115.148516,2011-04-08
+Western Springs,Western Springs National Bank and Trust,Heartland Bank and Trust Company,IL,41.8096132,-87.900671,2011-04-08
+Wood Dale,The Bank of Commerce,Advantage National Bank Group,IL,41.9633625,-87.9789562,2011-03-25
+Milwaukee,Legacy Bank,Seaway Bank and Trust Company,WI,43.0349931,-87.922497,2011-03-11
+Davis,First National Bank of Davis,The Pauls Valley National Bank,OK,34.5034796,-97.1188924,2011-03-11
+St. Charles,Valley Community Bank,First State Bank,IL,41.9139808,-88.3128183,2011-02-25
+San Luis Obispo,"San Luis Trust Bank, FSB",First California Bank,CA,35.3540209,-120.3757163,2011-02-18
+Napa,Charter Oak Bank,Bank of Marin,CA,38.2971367,-122.2855293,2011-02-18
+Springfield,Citizens Bank of Effingham,Heritage Bank of the South,GA,32.3724131,-81.3114988,2011-02-18
+Clarkesville,Habersham Bank,SCBT National Association,GA,34.6125971,-83.5248933,2011-02-18
+Palm Springs,Canyon National Bank,Pacific Premier Bank,CA,33.772179449999996,-116.49529769683983,2011-02-11
+Cassville,Badger State Bank,Royal Bank,WI,42.7144408,-90.9907697,2011-02-11
+Hamtramck,Peoples State Bank,First Michigan Bank,MI,42.3928151,-83.0496438,2011-02-11
+Port Orange,Sunshine State Community Bank,"Premier American Bank, N.A.",FL,29.101628050000002,-81.01059617608054,2011-02-11
+Chicago,Community First Bank Chicago,Northbrook Bank & Trust Company,IL,41.8755616,-87.6244212,2011-02-04
+Watkinsville,North Georgia Bank,BankSouth,GA,33.8628959,-83.4087709,2011-02-04
+Roswell,American Trust Bank,Renasant Bank,GA,34.02332,-84.360022,2011-02-04
+Taos,First Community Bank,"U.S. Bank, N.A.",NM,36.4072377,-105.573284,2011-01-28
+Louisville,FirsTier Bank,No Acquirer,CO,38.2542376,-85.759407,2011-01-28
+Stoughton,Evergreen State Bank,McFarland State Bank,WI,42.9167389,-89.2178997,2011-01-28
+Camargo,The First State Bank,Bank 7,OK,36.0174879,-99.2900229,2011-01-28
+Denver,United Western Bank,First-Citizens Bank & Trust Company,CO,39.7392364,-104.984862,2011-01-21
+Asheville,The Bank of Asheville,First Bank,NC,35.595076,-82.5528478,2011-01-21
+Easley,CommunitySouth Bank & Trust,"CertusBank, National Association",SC,34.8269276,-82.5817053,2011-01-21
+McDonough,Enterprise Banking Company,No Acquirer,GA,33.4473361,-84.1468616,2011-01-21
+Brunswick,Oglethorpe Bank,Bank of the Ozarks,GA,31.1499528,-81.4914894,2011-01-14
+Scottsdale,Legacy Bank,Enterprise Bank & Trust,AZ,33.4942189,-111.926018,2011-01-07
+Orlando,First Commercial Bank of Florida,First Southern Bank,FL,28.5421109,-81.3790304,2011-01-07
+Lino Lakes,Community National Bank,Farmers & Merchants Savings Bank,MN,45.1602442,-93.0888324,2010-12-17
+Batesville,First Southern Bank,Southern Bank,AR,35.769799,-91.6409722,2010-12-17
+Atlanta,"United Americas Bank, N.A.",State Bank and Trust Company,GA,33.7489924,-84.3902644,2010-12-17
+McCaysville,"Appalachian Community Bank, FSB",Peoples Bank of East Tennessee,GA,34.9861914,-84.3713117,2010-12-17
+Dawsonville,Chestatee State Bank,Bank of the Ozarks,GA,34.4212053,-84.1190804,2010-12-17
+Coral Gables,"The Bank of Miami,N.A.",1st United Bank,FL,25.72149,-80.2683838,2010-12-17
+Southampton,Earthstar Bank,Polonia Bank,PA,40.1742759,-75.0437814,2010-12-10
+Farmington Hills,Paramount Bank,Level One Bank,MI,42.4853125,-83.3771553,2010-12-10
+Burlington,First Banking Center,First Michigan Bank,WI,42.6780758,-88.27619,2010-11-19
+Bala Cynwyd,Allegiance Bank of North America,VIST Bank,PA,40.0076125,-75.2340695,2010-11-19
+Carrabelle,Gulf State Community Bank,Centennial Bank,FL,29.8532645,-84.664348,2010-11-19
+Scottsdale,Copper Star Bank,"Stearns Bank, N.A.",AZ,33.4942189,-111.926018,2010-11-12
+Vidalia,Darby Bank & Trust Co.,Ameris Bank,GA,32.2176855,-82.4134614,2010-11-12
+Tifton,Tifton Banking Company,Ameris Bank,GA,31.4549719,-83.5108284,2010-11-12
+Westminster,First Vietnamese American Bank,Grandpoint Bank,CA,33.7578725,-117.9859054,2010-11-05
+Tacoma,Pierce Commercial Bank,Heritage Bank,WA,47.2455013,-122.438329,2010-11-05
+Woodland Hills,Western Commercial Bank,First California Bank,CA,34.1684364,-118.6058382,2010-11-05
+Randallstown,K Bank,Manufacturers and Traders Trust Company (M&T Bank),MD,39.36909865,-76.79584212721417,2010-11-05
+Scottsdale,"First Arizona Savings, A FSB",No Acquirer,AZ,33.4942189,-111.926018,2010-10-22
+Overland Park,Hillcrest Bank,"Hillcrest Bank, N.A.",KS,38.9742502,-94.6851702,2010-10-22
+Maywood,First Suburban National Bank,Seaway Bank and Trust Company,IL,41.8789942,-87.8436412,2010-10-22
+Barnesville,The First National Bank of Barnesville,United Bank,GA,33.0545709,-84.1557496,2010-10-22
+Gordon,The Gordon Bank,Morris Bank,GA,34.5019651,-84.8986308,2010-10-22
+Tampa,Progress Bank of Florida,Bay Cities Bank,FL,27.9477595,-82.458444,2010-10-22
+Jacksonville,First Bank of Jacksonville,Ameris Bank,FL,30.3321838,-81.655651,2010-10-22
+Jefferson City,Premier Bank,Providence Bank,MO,38.577359,-92.1724265,2010-10-15
+Chesterfield,WestBridge Bank and Trust Company,Midland States Bank,MO,38.661953,-90.5643258,2010-10-15
+Olathe,"Security Savings Bank, F.S.B.",Simmons First National Bank,KS,38.8838856,-94.81887,2010-10-15
+Shoreline,Shoreline Bank,GBC International Bank,WA,47.7564667,-122.3437497,2010-10-01
+Crawfordville,Wakulla Bank,Centennial Bank,FL,30.1760358,-84.3751778,2010-10-01
+Arlington,North County Bank,Whidbey Island Bank,WA,48.1810957,-122.1389548,2010-09-24
+Ponte Vedra Beach,Haven Trust Bank Florida,First Southern Bank,FL,30.2396865,-81.3856384,2010-09-24
+West Allis,Maritime Savings Bank,"North Shore Bank, FSB",WI,43.0166806,-88.0070315,2010-09-17
+Milford,Bramble Savings Bank,Foundation Bank,OH,39.174625,-84.2958988,2010-09-17
+Winder,The Peoples Bank,Community & Southern Bank,GA,33.9919085,-83.7184368,2010-09-17
+Douglasville,First Commerce Community Bank,Community & Southern Bank,GA,33.7514966,-84.7477136,2010-09-17
+Ellijay,Bank of Ellijay,Community & Southern Bank,GA,34.6950278,-84.4827394,2010-09-17
+Cherry Hill,ISN Bank,Customers Bank,NJ,39.9348351,-75.0307264,2010-09-17
+Bradenton,Horizon Bank,Bank of the Ozarks,FL,27.4989278,-82.5748194,2010-09-10
+Sonoma,Sonoma Valley Bank,Westamerica Bank,CA,38.5110803,-122.8473388,2010-08-20
+Solvang,Los Padres Bank,Pacific Western Bank,CA,34.595887,-120.139071,2010-08-20
+Chico,Butte Community Bank,"Rabobank, N.A.",CA,39.7284945,-121.8374777,2010-08-20
+Stockton,Pacific State Bank,"Rabobank, N.A.",CA,37.9577016,-121.2907796,2010-08-20
+Chicago,ShoreBank,Urban Partnership Bank,IL,41.8755616,-87.6244212,2010-08-20
+Martinsville,Imperial Savings and Loan Association,"River Community Bank, N.A.",VA,36.6915262,-79.8725386,2010-08-20
+Ocala,Independent National Bank,"CenterState Bank of Florida, N.A.",FL,29.1871986,-82.1400923,2010-08-20
+Bartow,Community National Bank at Bartow,"CenterState Bank of Florida, N.A.",FL,27.885186599999997,-81.81408775862916,2010-08-20
+Palos Heights,Palos Bank and Trust Company,First Midwest Bank,IL,41.6681632,-87.7962812,2010-08-13
+Chicago,Ravenswood Bank,Northbrook Bank & Trust Company,IL,41.8755616,-87.6244212,2010-08-06
+Eugene,LibertyBank,Home Federal Bank,OR,44.0505054,-123.0950506,2010-07-30
+Longview,The Cowlitz Bank,Heritage Bank,WA,46.1377048,-122.934462,2010-07-30
+Panama City Beach,Coastal Community Bank,Centennial Bank,FL,30.1765914,-85.805386,2010-07-30
+Port Saint Joe,Bayside Savings Bank,Centennial Bank,FL,29.8118757,-85.302974,2010-07-30
+Acworth,Northwest Bank & Trust,State Bank and Trust Company,GA,34.0659329,-84.6768796,2010-07-30
+Cave Junction,Home Valley Bank,South Valley Bank & Trust,OR,42.1633443,-123.6479309,2010-07-23
+Las Vegas,SouthwestUSA Bank,Plaza Bank,NV,36.1672559,-115.148516,2010-07-23
+New Prague,Community Security Bank,Roundbank,MN,44.5433331,-93.5760445,2010-07-23
+Sylvan Grove,Thunder Bank,The Bennington State Bank,KS,39.009454,-98.394228,2010-07-23
+Kingstree,Williamsburg First National Bank,"First Citizens Bank and Trust Company, Inc.",SC,33.6676643,-79.8306265,2010-07-23
+Jasper,Crescent Bank and Trust Company,Renasant Bank,GA,33.3254635,-83.6868559,2010-07-23
+Lantana,Sterling Bank,IBERIABANK,FL,26.5865308,-80.052166,2010-07-23
+Hastings,"Mainstreet Savings Bank, FSB",Commercial Bank,MI,44.7426933,-92.8518697,2010-07-16
+Clewiston,Olde Cypress Community Bank,"CenterState Bank of Florida, N.A.",FL,26.7542312,-80.9336753,2010-07-16
+Aventura,Turnberry Bank,NAFH National Bank,FL,25.9564812,-80.1392121,2010-07-16
+Miami,Metro Bank of Dade County,NAFH National Bank,FL,25.7741728,-80.19362,2010-07-16
+Spartanburg,First National Bank of the South,NAFH National Bank,SC,34.9498007,-81.9320157,2010-07-16
+Bluffton,Woodlands Bank,Bank of the Ozarks,SC,32.2371465,-80.8603868,2010-07-16
+Blackwell,Home National Bank,RCB Bank,OK,36.8018163,-97.2861191,2010-07-09
+Port Chester,USA Bank,New Century Bank,NY,41.0017643,-73.6656834,2010-07-09
+Baltimore,Ideal Federal Savings Bank,No Acquirer,MD,39.2908816,-76.610759,2010-07-09
+Baltimore,Bay National Bank,"Bay Bank, FSB",MD,39.2908816,-76.610759,2010-07-09
+Albuquerque,High Desert State Bank,First American Bank,NM,35.0841034,-106.650985,2010-06-25
+Savannah,First National Bank,"The Savannah Bank, N.A.",GA,32.0790074,-81.0921335,2010-06-25
+Englewood,Peninsula Bank,"Premier American Bank, N.A.",FL,26.9606125,-82.3576323996642,2010-06-25
+Reno,Nevada Security Bank,Umpqua Bank,NV,39.5261206,-119.8126581,2010-06-18
+Seattle,Washington First International Bank,East West Bank,WA,47.6038321,-122.330062,2010-06-11
+Lincoln,TierOne Bank,Great Western Bank,NE,40.8088861,-96.7077751,2010-06-04
+Arcola,Arcola Homestead Savings Bank,No Acquirer,IL,39.684755,-88.3064367,2010-06-04
+Rosedale,First National Bank,The Jefferson Bank,MS,33.8551004,-91.0266112,2010-06-04
+Las Vegas,Sun West Bank,City National Bank,NV,36.1672559,-115.148516,2010-05-28
+Granite Bay,"Granite Community Bank, NA",Tri Counties Bank,CA,38.7632346,-121.1638361,2010-05-28
+Tampa,Bank of Florida - Tampa,EverBank,FL,27.9477595,-82.458444,2010-05-28
+Naples,Bank of Florida - Southwest,EverBank,FL,26.1421976,-81.7942944,2010-05-28
+Fort Lauderdale,Bank of Florida - Southeast,EverBank,FL,26.1223084,-80.1433786,2010-05-28
+Saint Paul,Pinehurst Bank,Coulee Bank,MN,44.9497487,-93.0931028,2010-05-21
+Elmwood Park,Midwest Bank and Trust Company,"FirstMerit Bank, N.A.",IL,41.9205931,-87.8160169,2010-05-14
+Springfield,Southwest Community Bank,Simmons First National Bank,MO,37.208958,-93.292297,2010-05-14
+Plymouth,New Liberty Bank,Bank of Ann Arbor,MI,45.0065149,-93.46651,2010-05-14
+Saint Marys,Satilla Community Bank,Ameris Bank,GA,30.593752,-82.012049,2010-05-14
+San Diego,1st Pacific Bank of California,City National Bank,CA,32.7174202,-117.1627728,2010-05-07
+Mesa,Towne Bank of Arizona,Commerce Bank of Arizona,AZ,33.4151005,-111.831455,2010-05-07
+Champlin,Access Bank,PrinsBank,MN,45.1888539,-93.3974538,2010-05-07
+Bonifay,The Bank of Bonifay,First Federal Bank of Florida,FL,30.7918559,-85.6796533,2010-05-07
+Everett,Frontier Bank,"Union Bank, N.A.",WA,47.9793437,-122.2127011,2010-04-30
+Butler,BC National Banks,Community First Bank,MO,36.7151346,-90.4146358,2010-04-30
+Creve Coeur,Champion Bank,BankLiberty,MO,38.6613007,-90.4423653,2010-04-30
+Port Huron,CF Bancorp,First Michigan Bank,MI,42.9815877,-82.440466,2010-04-30
+Mayaguez,Westernbank Puerto Rico,Banco Popular de Puerto Rico,PR,18.2011161,-67.1391124,2010-04-30
+Hato Rey,R-G Premier Bank of Puerto Rico,Scotiabank de Puerto Rico,PR,18.3988812,-67.0845472,2010-04-30
+San Juan,Eurobank,Oriental Bank and Trust,PR,18.465299,-66.116666,2010-04-30
+Naperville,Wheatland Bank,Wheaton Bank & Trust,IL,41.7728699,-88.1479278,2010-04-23
+Peotone,Peotone Bank and Trust Company,First Midwest Bank,IL,41.3323725,-87.7850863,2010-04-23
+Chicago,Lincoln Park Savings Bank,Northbrook Bank & Trust Company,IL,41.8755616,-87.6244212,2010-04-23
+Chicago,New Century Bank,"MB Financial Bank, N.A.",IL,41.8755616,-87.6244212,2010-04-23
+Chicago,Citizens Bank and Trust Company of Chicago,Republic Bank of Chicago,IL,41.8755616,-87.6244212,2010-04-23
+Chicago,Broadway Bank,"MB Financial Bank, N.A.",IL,41.8755616,-87.6244212,2010-04-23
+Rockford,"Amcore Bank, National Association",Harris N.A.,IL,42.2713945,-89.093966,2010-04-23
+Lynnwood,City Bank,Whidbey Island Bank,WA,47.8278656,-122.3053932,2010-04-16
+San Rafael,Tamalpais Bank,"Union Bank, N.A.",CA,37.9747795,-122.5316686,2010-04-16
+Oakland,Innovative Bank,Center Bank,CA,37.8044557,-122.271356,2010-04-16
+Lowell,Butler Bank,People's United Bank,MA,42.6414437,-71.3085329,2010-04-16
+Fort Pierce,Riverside National Bank of Florida,"TD Bank, N.A.",FL,27.4467056,-80.3256056,2010-04-16
+Clermont,AmericanFirst Bank,"TD Bank, N.A.",FL,28.5494447,-81.7728543,2010-04-16
+Palatka,First Federal Bank of North Florida,"TD Bank, N.A.",FL,29.6487882,-81.6372111,2010-04-16
+Sterling Heights,Lakeside Community Bank,No Acquirer,MI,42.5803122,-83.0302033,2010-04-16
+Myrtle Beach,Beach First National Bank,Bank of North Carolina,SC,33.6956461,-78.8900409,2010-04-09
+Phoenix,Desert Hills Bank,New York Community Bank,AZ,33.4484367,-112.074141,2010-03-26
+Cartersville,Unity National Bank,Bank of the Ozarks,GA,34.1652304,-84.7997613,2010-03-26
+Key West,Key West Bank,Centennial Bank,FL,24.5625566,-81.7724368,2010-03-26
+Carrollton,McIntosh Commercial Bank,CharterBank,GA,33.5801103,-85.0766113,2010-03-26
+Aurora,State Bank of Aurora,Northern State Bank,MN,47.5298533,-92.2367644,2010-03-19
+Fort Deposit,First Lowndes Bank,First Citizens Bank,AL,31.9845929,-86.5785856,2010-03-19
+Hiawassee,Bank of Hiawassee,Citizens South Bank,GA,34.947959,-83.7569922,2010-03-19
+Ellijay,Appalachian Community Bank,Community & Southern Bank,GA,34.6950278,-84.4827394,2010-03-19
+Draper,Advanta Bank Corp.,No Acquirer,UT,40.5247777,-111.8627989,2010-03-19
+Duluth,Century Security Bank,Bank of Upson,GA,34.0028569,-84.1441046,2010-03-19
+Parma,American National Bank,The National Bank and Trust Company,OH,41.3822398,-81.7355692,2010-03-19
+Covington,Statewide Bank,Home Bank,LA,31.196549,-86.4597236,2010-03-12
+Orlando,Old Southern Bank,Centennial Bank,FL,28.5421109,-81.3790304,2010-03-12
+New York,The Park Avenue Bank,Valley National Bank,NY,40.7127281,-74.0060152,2010-03-12
+New York,LibertyPointe Bank,Valley National Bank,NY,40.7127281,-74.0060152,2010-03-11
+Ogden,Centennial Bank,No Acquirer,UT,41.2230048,-111.9738429,2010-03-05
+Germantown,Waterfield Bank,No Acquirer,MD,39.17130815,-77.26557848822242,2010-03-05
+Normal,Bank of Illinois,Heartland Bank and Trust Company,IL,40.5092961,-88.9843937,2010-03-05
+Boca Raton,Sun American Bank,First-Citizens Bank & Trust Company,FL,26.3586885,-80.0830984,2010-03-05
+Tacoma,Rainier Pacific Bank,Umpqua Bank,WA,47.2455013,-122.438329,2010-02-26
+Carson City,Carson River Community Bank,Heritage Bank of Nevada,NV,39.1698022,-119.7575628,2010-02-26
+La Jolla,"La Jolla Bank, FSB","OneWest Bank, FSB",CA,32.8401623,-117.2740777,2010-02-19
+Orland Park,George Washington Savings Bank,"FirstMerit Bank, N.A.",IL,41.630663,-87.8536288,2010-02-19
+La Coste,The La Coste National Bank,Community National Bank,TX,29.3102726,-98.8129169,2010-02-19
+Marco Island,Marco Community Bank,Mutual of Omaha Bank,FL,25.9363356,-81.7156832,2010-02-19
+Hancock,1st American State Bank of Minnesota,"Community Development Bank, FSB",MN,45.497461,-95.796714,2010-02-05
+Bainbridge Island,American Marine Bank,Columbia State Bank,WA,47.647696749999994,-122.5460926142444,2010-01-29
+Los Angeles,First Regional Bank,First-Citizens Bank & Trust Company,CA,34.0536909,-118.242766,2010-01-29
+Cornelia,Community Bank and Trust,SCBT National Association,GA,34.5114883,-83.5271166,2010-01-29
+Hallock,"Marshall Bank, N.A.",United Valley Bank,MN,48.7744263,-96.946447,2010-01-29
+Immokalee,Florida Community Bank,"Premier American Bank, N.A.",FL,26.42016,-81.42224084651733,2010-01-29
+Carrollton,First National Bank of Georgia,Community & Southern Bank,GA,33.5801103,-85.0766113,2010-01-29
+The Dalles,Columbia River Bank,Columbia State Bank,OR,45.6015056,-121.1841587,2010-01-22
+Seattle,Evergreen Bank,Umpqua Bank,WA,47.6038321,-122.330062,2010-01-22
+Santa Fe,Charter Bank,Charter Bank,NM,35.6876096,-105.938456,2010-01-22
+Leeton,Bank of Leeton,"Sunflower Bank, N.A.",MO,38.5830717,-93.694658,2010-01-22
+Miami,Premier American Bank,"Premier American Bank, N.A.",FL,25.7741728,-80.19362,2010-01-22
+Kaysville,Barnes Banking Company,No Acquirer,UT,41.0349847,-111.9383931,2010-01-15
+St. Stephen,St. Stephen State Bank,First State Bank of St. Joseph,MN,45.702743,-94.2744404,2010-01-15
+Antioch,Town Community Bank & Trust,First American Bank,IL,42.4767131,-88.0950691,2010-01-15
+Bellingham,Horizon Bank,Washington Federal Savings and Loan Association,WA,48.7544012,-122.478836,2010-01-08
+Santa Monica,"First Federal Bank of California, F.S.B.","OneWest Bank, FSB",CA,34.0194704,-118.491227,2009-12-18
+La Jolla,Imperial Capital Bank,City National Bank,CA,32.8401623,-117.2740777,2009-12-18
+Springfield,Independent Bankers' Bank,The Independent BankersBank (TIB),IL,39.7990175,-89.6439575,2009-12-18
+Irondale,New South Federal Savings Bank,Beal Bank,AL,33.5381601,-86.7072102,2009-12-18
+New Baltimore,Citizens State Bank,No Acquirer,MI,42.6811436,-82.7368616,2009-12-18
+Panama City,Peoples First Community Bank,Hancock Bank,FL,30.1586518,-85.6602936,2009-12-18
+Atlanta,RockBridge Commercial Bank,No Acquirer,GA,33.7489924,-84.3902644,2009-12-18
+Overland Park,SolutionsBank,Arvest Bank,KS,38.9742502,-94.6851702,2009-12-11
+Mesa,"Valley Capital Bank, N.A.",Enterprise Bank & Trust,AZ,33.4151005,-111.831455,2009-12-11
+Miami,"Republic Federal Bank, N.A.",1st United Bank,FL,25.7741728,-80.19362,2009-12-11
+Reston,Greater Atlantic Bank,Sonabank,VA,38.953055899999995,-77.35021396591173,2009-12-04
+Aurora,Benchmark Bank,"MB Financial Bank, N.A.",IL,41.7571701,-88.3147539,2009-12-04
+Cleveland,AmTrust Bank,New York Community Bank,OH,41.4996574,-81.6936772,2009-12-04
+Reidsville,The Tattnall Bank,Heritage Bank of the South,GA,32.0868611,-82.1178978,2009-12-04
+Norcross,First Security National Bank,State Bank and Trust Company,GA,33.9412127,-84.2135309,2009-12-04
+Atlanta,The Buckhead Community Bank,State Bank and Trust Company,GA,33.7489924,-84.3902644,2009-12-04
+Fort Myers,Commerce Bank of Southwest Florida,Central Bank,FL,26.640628,-81.8723084,2009-11-20
+San Clemente,Pacific Coast National Bank,Sunwest Bank,CA,33.4270275,-117.6124179,2009-11-13
+Naples,Orion Bank,IBERIABANK,FL,26.1421976,-81.7942944,2009-11-13
+Sarasota,"Century Bank, F.S.B.",IBERIABANK,FL,27.3365805,-82.5308545,2009-11-13
+San Francisco,United Commercial Bank,East West Bank,CA,37.7790262,-122.419906,2009-11-06
+St. Louis,Gateway Bank of St. Louis,Central Bank of Kansas City,MO,38.6280278,-90.1910154,2009-11-06
+Oakdale,Prosperan Bank,"Alerus Financial, N.A.",MN,44.985624,-92.9645794,2009-11-06
+Detroit,Home Federal Savings Bank,Liberty Bank and Trust Company,MI,42.3315509,-83.0466403,2009-11-06
+Sparta,United Security Bank,Ameris Bank,GA,33.2757006,-82.9762589,2009-11-06
+Houston,North Houston Bank,U.S. Bank N.A.,TX,29.7589382,-95.3676974,2009-10-30
+Madisonville,Madisonville State Bank,U.S. Bank N.A.,TX,30.9498688,-95.9127773,2009-10-30
+Teague,Citizens National Bank,U.S. Bank N.A.,TX,31.6271145,-96.2838621,2009-10-30
+Chicago,Park National Bank,U.S. Bank N.A.,IL,41.8755616,-87.6244212,2009-10-30
+San Francisco,Pacific National Bank,U.S. Bank N.A.,CA,37.7790262,-122.419906,2009-10-30
+Los Angeles,California National Bank,U.S. Bank N.A.,CA,34.0536909,-118.242766,2009-10-30
+San Diego,San Diego National Bank,U.S. Bank N.A.,CA,32.7174202,-117.1627728,2009-10-30
+Lemont,Community Bank of Lemont,U.S. Bank N.A.,IL,41.6737149,-88.0016263,2009-10-30
+Phoenix,"Bank USA, N.A.",U.S. Bank N.A.,AZ,33.4484367,-112.074141,2009-10-30
+Westmont,First DuPage Bank,First Midwest Bank,IL,41.7950525,-87.9751964,2009-10-23
+Otsego,Riverview Community Bank,Central Bank,MN,45.2812733,-93.614857,2009-10-23
+Racine,Bank of Elmwood,Tri City National Bank,WI,42.7260523,-87.7825242,2009-10-23
+Bradenton,Flagship National Bank,First Federal Bank of Florida,FL,27.4989278,-82.5748194,2009-10-23
+Naples,Hillcrest Bank Florida,Stonegate Bank,FL,26.1421976,-81.7942944,2009-10-23
+Lawrenceville,American United Bank,Ameris Bank,GA,33.9566391,-83.9890066,2009-10-23
+Naples,Partners Bank,Stonegate Bank,FL,26.1421976,-81.7942944,2009-10-23
+Bakersfield,San Joaquin Bank,Citizens Business Bank,CA,35.3738712,-119.0194639,2009-10-16
+Pueblo,Southern Colorado National Bank,Legacy Bank,CO,38.2544472,-104.609141,2009-10-02
+Spring Grove,Jennings State Bank,Central Bank,MN,43.5610145,-91.6359516,2009-10-02
+Warren,Warren Bank,The Huntington National Bank,MI,38.7535106,-91.1453948,2009-10-02
+Atlanta,Georgian Bank,"First Citizens Bank and Trust Company, Inc.",GA,33.7489924,-84.3902644,2009-09-25
+Louisville,"Irwin Union Bank, F.S.B.","First Financial Bank, N.A.",KY,38.2542376,-85.759407,2009-09-18
+Columbus,Irwin Union Bank and Trust Company,"First Financial Bank, N.A.",IN,39.2014405,-85.9213796,2009-09-18
+Lacey,Venture Bank,First-Citizens Bank & Trust Company,WA,47.0263876,-122.8072257,2009-09-11
+Woodbury,Brickwell Community Bank,CorTrust Bank N.A.,MN,44.919896,-92.9339449,2009-09-11
+Chicago,"Corus Bank, N.A.","MB Financial Bank, N.A.",IL,41.8755616,-87.6244212,2009-09-11
+Flagstaff,First State Bank,Sunwest Bank,AZ,35.1816047,-111.6165953319917,2009-09-04
+Rolling Meadows,Platinum Community Bank,No Acquirer,IL,42.0841936,-88.0131275,2009-09-04
+Sioux City,Vantus Bank,Great Southern Bank,IA,42.4966815,-96.4058782,2009-09-04
+Oak Forest,InBank,"MB Financial Bank, N.A.",IL,41.6028116,-87.7439384,2009-09-04
+Kansas City,First Bank of Kansas City,Great American Bank,MO,39.100105,-94.5781416,2009-09-04
+Ventura,Affinity Bank,Pacific Western Bank,CA,34.4458248,-119.0779359,2009-08-28
+Forest Lake,Mainstreet Bank,Central Bank,MN,45.279106,-92.9851629,2009-08-28
+Baltimore,Bradford Bank,Manufacturers and Traders Trust Company (M&T Bank),MD,39.2908816,-76.610759,2009-08-28
+Austin,Guaranty Bank,BBVA Compass,TX,30.2711286,-97.7436995,2009-08-21
+Birmingham,CapitalSouth Bank,IBERIABANK,AL,33.5206824,-86.8024326,2009-08-21
+Newnan,First Coweta Bank,United Bank,GA,33.3806716,-84.7996573,2009-08-21
+Atlanta,ebank,"Stearns Bank, N.A.",GA,33.7489924,-84.3902644,2009-08-21
+Las Vegas,Community Bank of Nevada,No Acquirer,NV,36.1672559,-115.148516,2009-08-14
+Phoenix,Community Bank of Arizona,MidFirst Bank,AZ,33.4484367,-112.074141,2009-08-14
+Gilbert,"Union Bank, National Association",MidFirst Bank,AZ,33.3527632,-111.789037,2009-08-14
+Montgomery,Colonial Bank,"Branch Banking & Trust Company, (BB&T)",AL,32.3669656,-86.3006485,2009-08-14
+Pittsburgh,Dwelling House Savings and Loan Association,"PNC Bank, N.A.",PA,40.4416941,-79.9900861,2009-08-14
+Prineville,Community First Bank,Home Federal Bank,OR,44.2998261,-120.834972,2009-08-07
+Venice,Community National Bank of Sarasota County,"Stearns Bank, N.A.",FL,27.0999188,-82.4543597,2009-08-07
+Sarasota,First State Bank,"Stearns Bank, N.A.",FL,27.3365805,-82.5308545,2009-08-07
+Harvey,Mutual Bank,United Central Bank,IL,41.6100344,-87.6467132,2009-07-31
+Elizabeth,First BankAmericano,Crown Bank,NJ,40.6639916,-74.2107006,2009-07-31
+West Chester,Peoples Community Bank,"First Financial Bank, N.A.",OH,39.3303357,-84.408275,2009-07-31
+Jupiter,Integrity Bank,Stonegate Bank,FL,26.9342246,-80.0942087,2009-07-31
+Altus,First State Bank of Altus,Herring Bank,OK,34.6381255,-99.3339754,2009-07-31
+Gray,Security Bank of Jones County,State Bank and Trust Company,GA,33.0095802,-83.5337816,2009-07-24
+Perry,Security Bank of Houston County,State Bank and Trust Company,GA,32.4586695,-83.7319658,2009-07-24
+Macon,Security Bank of Bibb County,State Bank and Trust Company,GA,32.8406946,-83.6324022,2009-07-24
+Woodstock,Security Bank of North Metro,State Bank and Trust Company,GA,34.1014112,-84.5192192,2009-07-24
+Alpharetta,Security Bank of North Fulton,State Bank and Trust Company,GA,34.0709576,-84.2747329,2009-07-24
+Suwanee,Security Bank of Gwinnett County,State Bank and Trust Company,GA,34.0514898,-84.0712997,2009-07-24
+Williamsville,Waterford Village Bank,"Evans Bank, N.A.",NY,42.9637836,-78.7377258,2009-07-24
+Temecula,Temecula Valley Bank,First-Citizens Bank & Trust Company,CA,33.4946353,-117.1473661,2009-07-17
+Rancho Cucamonga,Vineyard Bank,California Bank & Trust,CA,34.1033192,-117.5751735,2009-07-17
+Sioux Falls,BankFirst,"Alerus Financial, N.A.",SD,43.5488256,-96.7307737,2009-07-17
+Winder,First Piedmont Bank,First American Bank and Trust Company,GA,33.9919085,-83.7184368,2009-07-17
+Thermopolis,Bank of Wyoming,Central Bank & Trust,WY,43.646067,-108.212043,2009-07-10
+Worth,Founders Bank,The PrivateBank and Trust Company,IL,41.6899779,-87.7974139,2009-07-02
+Dallas,Millennium State Bank of Texas,State Bank of Texas,TX,32.7762719,-96.7968559,2009-07-02
+Danville,First National Bank of Danville,"First Financial Bank, N.A.",IL,40.125222,-87.6304614,2009-07-02
+Elizabeth,The Elizabeth State Bank,Galena State Bank and Trust Company,IL,42.3177911,-90.221517,2009-07-02
+Oregon,Rock River Bank,The Harvard State Bank,IL,42.0147513,-89.3323279,2009-07-02
+Winchester,First State Bank of Winchester,The First National Bank of Beardstown,IL,39.62973,-90.4562813,2009-07-02
+Clinton,John Warner Bank,State Bank of Lincoln,IL,38.5896187,-89.420064,2009-07-02
+Los Angeles,Mirae Bank,Wilshire State Bank,CA,34.0536909,-118.242766,2009-06-26
+Irvine,MetroPacific Bank,Sunwest Bank,CA,33.6856969,-117.8259819,2009-06-26
+Pine City,Horizon Bank,"Stearns Bank, N.A.",MN,45.8260672,-92.9685423,2009-06-26
+Newnan,Neighborhood Community Bank,CharterBank,GA,33.3806716,-84.7996573,2009-06-26
+Villa Rica,Community Bank of West Georgia,No Acquirer,GA,33.732052,-84.9191081,2009-06-26
+Anthony,First National Bank of Anthony,Bank of Kansas,KS,37.1533554,-98.0311728,2009-06-19
+Wilmington,Cooperative Bank,First Bank,NC,34.2257282,-77.9447107,2009-06-19
+Fayetteville,Southern Community Bank,United Community Bank,GA,33.4487257,-84.4549262,2009-06-19
+Lincolnwood,Bank of Lincolnwood,Republic Bank of Chicago,IL,42.0055985,-87.735572,2009-06-05
+Macomb,Citizens National Bank,Morton Community Bank,IL,40.4588934,-90.6713939,2009-05-22
+Champaign,Strategic Capital Bank,Midland States Bank,IL,40.1164841,-88.2430932,2009-05-22
+Coral Gables,"BankUnited, FSB",BankUnited,FL,25.72149,-80.2683838,2009-05-21
+Bremerton,Westsound Bank,Kitsap Bank,WA,47.5653663,-122.6246836,2009-05-08
+Layton,America West Bank,Cache Valley Bank,UT,41.0751048,-111.9741925,2009-05-01
+Ridgewood,Citizens Community Bank,North Jersey Community Bank,NJ,40.9796683,-74.1194403,2009-05-01
+Atlanta,"Silverton Bank, NA",No Acquirer,GA,33.7489924,-84.3902644,2009-05-01
+Ketchum,First Bank of Idaho,"U.S. Bank, N.A.",ID,43.680741,-114.363662,2009-04-24
+Calabasas,First Bank of Beverly Hills,No Acquirer,CA,34.1446643,-118.644097,2009-04-24
+Farmington Hills,Michigan Heritage Bank,Level One Bank,MI,42.4853125,-83.3771553,2009-04-24
+Kennesaw,American Southern Bank,Bank of North Georgia,GA,34.0234337,-84.6154897,2009-04-24
+Elko,Great Basin Bank of Nevada,Nevada State Bank,NV,41.1958128,-115.3272864,2009-04-17
+Sugar Creek,American Sterling Bank,Metcalf Bank,MO,39.109669,-94.44487,2009-04-17
+Greeley,New Frontier Bank,No Acquirer,CO,40.4233142,-104.7091322,2009-04-10
+Wilmington,Cape Fear Bank,First Federal Savings and Loan Association,NC,34.2257282,-77.9447107,2009-04-10
+Atlanta,Omni National Bank,No Acquirer,GA,33.7489924,-84.3902644,2009-03-27
+Paola,"TeamBank, NA",Great Southern Bank,KS,38.5723318,-94.8786484,2009-03-20
+Colorado Springs,Colorado National Bank,Herring Bank,CO,38.8339578,-104.825348,2009-03-20
+Stockbridge,FirstCity Bank,No Acquirer,GA,33.5442781,-84.2338093,2009-03-20
+Commerce,Freedom Bank of Georgia,Northeast Georgia Bank,GA,34.203997,-83.4571058,2009-03-06
+Henderson,Security Savings Bank,Bank of Nevada,NV,36.0301134,-114.9826194,2009-02-27
+Glenwood,Heritage Community Bank,"MB Financial Bank, N.A.",IL,41.5424867,-87.6022765,2009-02-27
+Silverton,Silver Falls Bank,Citizens Bank,OR,45.0049305,-122.7832947,2009-02-20
+Beaverton,Pinnacle Bank of Oregon,Washington Trust Bank of Spokane,OR,45.4871723,-122.80378,2009-02-13
+Pittsfield,Corn Belt Bank & Trust Co.,The Carlinville National Bank,IL,39.6078254,-90.805129,2009-02-13
+Cape Coral,Riverside Bank of the Gulf Coast,TIB Bank,FL,26.6059432,-81.9806771,2009-02-13
+Loup City,Sherman County Bank,Heritage Bank,NE,41.2747492,-98.9672755,2009-02-13
+Merced,County Bank,Westamerica Bank,CA,37.1641544,-120.7678602,2009-02-06
+Culver City,Alliance Bank,California Bank & Trust,CA,34.0211224,-118.396466,2009-02-06
+McDonough,FirstBank Financial Services,Regions Bank,GA,33.4473361,-84.1468616,2009-02-06
+Ocala,Ocala National Bank,"CenterState Bank of Florida, N.A.",FL,29.1871986,-82.1400923,2009-01-30
+Crofton,Suburban FSB,Bank of Essex,MD,39.01595465,-76.68420565430054,2009-01-30
+Salt Lake City,MagnetBank,No Acquirer,UT,40.7596198,-111.886797,2009-01-30
+Redlands,1st Centennial Bank,First California Bank,CA,34.0550328,-117.1827445,2009-01-23
+Vancouver,Bank of Clark County,Umpqua Bank,WA,45.6306954,-122.6744557,2009-01-16
+Berkeley,National Bank of Commerce,Republic Bank of Chicago,IL,41.8889194,-87.9033956,2009-01-16
+Sanderson,Sanderson State Bank,The Pecos County State Bank,TX,30.1424077,-102.394024,2008-12-12
+Duluth,Haven Trust Bank,"Branch Banking & Trust Company, (BB&T)",GA,34.0028569,-84.1441046,2008-12-12
+Jackson,First Georgia Community Bank,United Bank,GA,34.1282559,-83.5753386,2008-12-05
+Pomona,PFF Bank & Trust,"U.S. Bank, N.A.",CA,34.0553813,-117.7517496,2008-11-21
+Newport Beach,Downey Savings & Loan,"U.S. Bank, N.A.",CA,33.6170092,-117.9294401,2008-11-21
+Loganville,Community Bank,Bank of Essex,GA,33.8389977,-83.9007382,2008-11-21
+Los Angeles,Security Pacific Bank,Pacific Western Bank,CA,34.0536909,-118.242766,2008-11-07
+Houston,"Franklin Bank, SSB",Prosperity Bank,TX,29.7589382,-95.3676974,2008-11-07
+Bradenton,Freedom Bank,Fifth Third Bank,FL,27.4989278,-82.5748194,2008-10-31
+Alpharetta,Alpha Bank & Trust,"Stearns Bank, N.A.",GA,34.0709576,-84.2747329,2008-10-24
+Eldred,Meridian Bank,National Bank,IL,39.2875475,-90.5523438,2008-10-10
+Northville,Main Street Bank,Monroe Bank & Trust,MI,42.4310816,-83.4832339,2008-10-10
+Henderson,Washington Mutual Bank (Including its subsidiary Washington Mutual Bank FSB),JP Morgan Chase Bank,NV,36.0301134,-114.9826194,2008-09-25
+Northfork,Ameribank,"The Citizens Savings Bank ********** Pioneer Community Bank, Inc.",WV,37.420948,-81.4401034,2008-09-19
+Henderson,Silver State Bank,Nevada State Bank,NV,36.0301134,-114.9826194,2008-09-05
+Alpharetta,Integrity Bank,Regions Bank,GA,34.0709576,-84.2747329,2008-08-29
+Topeka,Columbian Bank & Trust,Citizens Bank & Trust,KS,39.049011,-95.677556,2008-08-22
+Bradenton,First Priority Bank,SunTrust Bank,FL,27.4989278,-82.5748194,2008-08-01
+Newport Beach,"First Heritage Bank, NA",Mutual of Omaha Bank,CA,33.6170092,-117.9294401,2008-07-25
+Reno,First National Bank of Nevada,Mutual of Omaha Bank,NV,39.5261206,-119.8126581,2008-07-25
+Pasadena,IndyMac Bank,"OneWest Bank, FSB",CA,34.1476452,-118.1444779,2008-07-11
+Staples,"First Integrity Bank, NA",First International Bank and Trust,MN,46.3550001,-94.7933333,2008-05-30
+Bentonville,"ANB Financial, NA",Pulaski Bank and Trust Company,AR,36.3728538,-94.2088172,2008-05-09
+Hume,Hume Bank,Security Bank,MO,38.0900314,-94.5838444,2008-03-07
+Kansas City,Douglass National Bank,Liberty Bank and Trust Company,MO,39.100105,-94.5781416,2008-01-25
+Lakeview,Miami Valley Bank,The Citizens Banking Company,OH,40.4847717,-83.9229952,2007-10-04
+Alpharetta,NetBank,ING DIRECT,GA,34.0709576,-84.2747329,2007-09-28
+Pittsburgh,Metropolitan Savings Bank,Allegheny Valley Bank of Pittsburgh,PA,40.4416941,-79.9900861,2007-02-02
+Ephraim,Bank of Ephraim,Far West Bank,UT,39.3596842,-111.586305,2004-06-25
+White Plains,Reliance Bank,Union State Bank,NY,41.0339862,-73.7629097,2004-03-19
+Tallahassee,Guaranty National Bank of Tallahassee,Hancock Bank of Florida,FL,30.4380832,-84.2809332,2004-03-12
+Newark,Dollar Savings Bank,No Acquirer,NJ,40.735657,-74.1723667,2004-02-14
+Philadelphia,Pulaski Savings Bank,Earthstar Bank,PA,39.9527237,-75.1635262,2003-11-14
+Blanchardville,First National Bank of Blanchardville,The Park Bank,WI,42.81032,-89.8622149,2003-05-09
+Torrance,Southern Pacific Bank,Beal Bank,CA,33.8358492,-118.3406288,2003-02-07
+Cheneyville,Farmers Bank of Cheneyville,Sabine State Bank & Trust,LA,31.0149128,-92.2873521,2002-12-17
+Alamo,Bank of Alamo,No Acquirer,TN,35.7847949,-89.1172883,2002-11-08
+Atlanta,AmTrade International Bank,No Acquirer,GA,33.7489924,-84.3902644,2002-09-30
+Chicago,Universal Federal Savings Bank,Chicago Community Bank,IL,41.8755616,-87.6244212,2002-06-27
+Stamford,Connecticut Bank of Commerce,Hudson United Bank,CT,41.0534302,-73.5387341,2002-06-26
+Shelby Township,New Century Bank,No Acquirer,MI,43.5974492,-86.33795091855055,2002-03-28
+Boca Raton,Net 1st National Bank,Bank Leumi USA,FL,26.3586885,-80.0830984,2002-03-01
+Phoenix,"NextBank, NA",No Acquirer,AZ,33.4484367,-112.074141,2002-02-07
+Oakwood,Oakwood Deposit Bank Co.,The State Bank & Trust Company,OH,41.365333,-81.507896,2002-02-01
+Sierra Blanca,Bank of Sierra Blanca,The Security State Bank of Pecos,TX,31.1778312,-105.357627,2002-01-18
+Miami,"Hamilton Bank, NA",Israel Discount Bank of New York,FL,25.7741728,-80.19362,2002-01-11
+Gravette,Sinclair National Bank,Delta Trust & Bank,AR,36.4208054,-94.4526535,2001-09-07
+Hinsdale,"Superior Bank, FSB","Superior Federal, FSB",IL,41.8024604,-87.9299841,2001-07-27
+Malta,Malta National Bank,North Valley Bank,OH,39.6492377,-81.8620804,2001-05-03
+Manchester,First Alliance Bank & Trust Co.,Southern New Hampshire Bank & Trust,NH,42.9956397,-71.4547891,2001-02-02
+Metropolis,National State Bank of Metropolis,Banterra Bank of Marion,IL,37.1511655,-88.7319979,2000-12-14
+Honolulu,Bank of Honolulu,Bank of the Orient,HI,21.304547,-157.855676,2000-10-13

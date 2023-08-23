@@ -1,0 +1,435 @@
+City,First Acquirer,Second Acquirer,First Acquirer Count,Second Acquirer Count,Total Bankruptcies,Category
+Acworth,State Bank and Trust Company,,1,,1,Minor
+Ailey,Ameris Bank,,1,,1,Minor
+Alamo,No Acquirer,,1,,1,Minor
+Albuquerque,First American Bank,,1,,1,Minor
+Aledo,Blackhawk Bank & Trust,,1,,1,Minor
+Almena,Equity Bank,,1,,1,Minor
+Alpharetta,ING DIRECT,Regions Bank,1,1.0,4,Moderate
+Altus,Herring Bank,,1,,1,Minor
+Andover,First Minnesota Bank,,1,,1,Minor
+Anthony,Bank of Kansas,,1,,1,Minor
+Antioch,First American Bank,,1,,1,Minor
+Apollo Beach,American Momentum Bank,,1,,1,Minor
+Arcola,No Acquirer,,1,,1,Minor
+Argonia,Conway Bank,,1,,1,Minor
+Arlington,Whidbey Island Bank,,1,,1,Minor
+Asheville,Bank of North Carolina,"Capital Bank, N.A.",1,1.0,3,Moderate
+Atlanta,No Acquirer,State Bank and Trust Company,4,2.0,10,Moderate
+Aurora,"MB Financial Bank, N.A.",Northern State Bank,1,1.0,2,Moderate
+Austin,BBVA Compass,,1,,1,Minor
+Aventura,NAFH National Bank,,1,,1,Minor
+Bainbridge Island,Columbia State Bank,,1,,1,Minor
+Bakersfield,Citizens Business Bank,,1,,1,Minor
+Bala Cynwyd,VIST Bank,,1,,1,Minor
+Baltimore,"Bay Bank, FSB",Manufacturers and Traders Trust Company (M&T Bank),1,1.0,3,Moderate
+Barboursville,"MVB Bank, Inc.",,1,,1,Minor
+Barnesville,United Bank,,1,,1,Minor
+Bartow,"CenterState Bank of Florida, N.A.",,1,,1,Minor
+Batesville,Southern Bank,,1,,1,Minor
+Beaverton,Washington Trust Bank of Spokane,,1,,1,Minor
+Bel Air,"Bay Bank, FSB",,1,,1,Minor
+Belleview,"CenterState Bank of Florida, N.A.",,1,,1,Minor
+Bellingham,Washington Federal Savings and Loan Association,,1,,1,Minor
+Bentonville,Pulaski Bank and Trust Company,,1,,1,Minor
+Berkeley,Republic Bank of Chicago,,1,,1,Minor
+Berwyn,No Acquirer,Republic Bank of Chicago,1,1.0,2,Moderate
+Birmingham,AloStar Bank of Commerce,IBERIABANK,1,1.0,3,Moderate
+Blackwell,RCB Bank,,1,,1,Minor
+Blanchardville,The Park Bank,,1,,1,Minor
+Bloomington,Republic Bank & Trust Company,,1,,1,Minor
+Bluffton,Bank of the Ozarks,,1,,1,Minor
+Boca Raton,Bank Leumi USA,First-Citizens Bank & Trust Company,1,1.0,2,Moderate
+Boise,Sunwest Bank,,1,,1,Minor
+Bonifay,First Federal Bank of Florida,,1,,1,Minor
+Boothwyn,"Capital Bank, N.A.",,1,,1,Minor
+Bradenton,Bank of the Ozarks,Fifth Third Bank,1,1.0,4,Moderate
+Braselton,"CertusBank, National Association",,1,,1,Minor
+Bremerton,Kitsap Bank,,1,,1,Minor
+Bridgeport,No Acquirer,,1,,1,Minor
+Brooksville,"Florida Community Bank, a division of Premier American Bank, N.A.",,1,,1,Minor
+Brunswick,Bank of the Ozarks,,1,,1,Minor
+Buford,Community & Southern Bank,,1,,1,Minor
+Burlington,Columbia State Bank,First Michigan Bank,1,1.0,2,Moderate
+Butler,Community First Bank,,1,,1,Minor
+Calabasas,No Acquirer,,1,,1,Minor
+Camargo,Bank 7,,1,,1,Minor
+Cambridge,No Acquirer,,1,,1,Minor
+Cape Coral,TIB Bank,,1,,1,Minor
+Carrabelle,Centennial Bank,,1,,1,Minor
+Carrollton,CharterBank,Community & Southern Bank,1,1.0,2,Moderate
+Carson City,Heritage Bank of Nevada,,1,,1,Minor
+Cartersville,Bank of the Ozarks,Hamilton State Bank,1,1.0,2,Moderate
+Carthage,Trustmark National Bank,,1,,1,Minor
+Cassville,Royal Bank,,1,,1,Minor
+Castle Rock,First-Citizens Bank & Trust Company,,1,,1,Minor
+Cave Junction,South Valley Bank & Trust,,1,,1,Minor
+Champaign,Midland States Bank,,1,,1,Minor
+Champlin,PrinsBank,,1,,1,Minor
+Charleston,Bank of North Carolina,"First Citizens Bank and Trust Company, Inc.",1,1.0,2,Moderate
+Cheneyville,Sabine State Bank & Trust,,1,,1,Minor
+Cherry Hill,Customers Bank,,1,,1,Minor
+Chesterfield,Midland States Bank,,1,,1,Minor
+Chicago,Northbrook Bank & Trust Company,"MB Financial Bank, N.A.",4,3.0,20,Moderate
+Chico,"Rabobank, N.A.",,1,,1,Minor
+Cincinnati,"United Fidelity Bank, fsb",,1,,1,Minor
+Clarkesville,SCBT National Association,,1,,1,Minor
+Clayton,First American Bank and Trust Company,,1,,1,Minor
+Clearwater,1st United Bank,,1,,1,Minor
+Clermont,"TD Bank, N.A.",,1,,1,Minor
+Cleveland,New York Community Bank,,1,,1,Minor
+Clewiston,"CenterState Bank of Florida, N.A.",,1,,1,Minor
+Clinton,State Bank of Lincoln,,1,,1,Minor
+Cocoa Beach,"Florida Community Bank, a division of Premier American Bank, N.A.",,1,,1,Minor
+Colfax,Columbia State Bank,,1,,1,Minor
+Colorado Springs,Herring Bank,,1,,1,Minor
+Columbia,SCBT National Association,,1,,1,Minor
+Columbus,"First Financial Bank, N.A.",,1,,1,Minor
+Commerce,Northeast Georgia Bank,,1,,1,Minor
+Conyers,Community & Southern Bank,,1,,1,Minor
+Cooper,"Legend Bank, N. A.",,1,,1,Minor
+Coral Gables,1st United Bank,BankUnited,1,1.0,2,Moderate
+Cornelia,SCBT National Association,,1,,1,Minor
+Cottonwood Heights,Cache Valley Bank,,1,,1,Minor
+Covington,Home Bank,,1,,1,Minor
+Cranford,Northfield Bank,,1,,1,Minor
+Crawfordville,Centennial Bank,,1,,1,Minor
+Crestview,First NBC Bank,Summit Bank,1,1.0,2,Moderate
+Crete,"Old Plank Trail Community Bank, National Association",,1,,1,Minor
+Creve Coeur,BankLiberty,,1,,1,Minor
+Crofton,Bank of Essex,,1,,1,Minor
+Culver City,California Bank & Trust,,1,,1,Minor
+Cumming,Georgia Commerce Bank,,1,,1,Minor
+Dallas,Bank of the Ozarks,State Bank of Texas,1,1.0,2,Moderate
+Danville,"First Financial Bank, N.A.",,1,,1,Minor
+Davis,The Pauls Valley National Bank,,1,,1,Minor
+Dawsonville,Bank of the Ozarks,,1,,1,Minor
+Dearborn,The Huntington National Bank,,1,,1,Minor
+Decatur,Fidelity Bank,,1,,1,Minor
+Denver,First-Citizens Bank & Trust Company,"United Fidelity Bank, fsb",1,1.0,2,Moderate
+Des Plaines,International Bank of Chicago,,1,,1,Minor
+Destin,SmartBank,,1,,1,Minor
+Detroit,Liberty Bank and Trust Company,,1,,1,Minor
+Doraville,Metro City Bank,,1,,1,Minor
+Douglasville,Community & Southern Bank,Hamilton State Bank,1,1.0,2,Moderate
+Draper,No Acquirer,,1,,1,Minor
+Duluth,Bank of Upson,"Branch Banking & Trust Company, (BB&T)",1,1.0,2,Moderate
+Easley,"CertusBank, National Association",,1,,1,Minor
+East Ellijay,Citizens South Bank,,1,,1,Minor
+Edinburg,PlainsCapital Bank,,1,,1,Minor
+El Reno,BancFirst,,1,,1,Minor
+Eldred,National Bank,,1,,1,Minor
+Elizabeth,Crown Bank,Galena State Bank and Trust Company,1,1.0,2,Moderate
+Elko,Nevada State Bank,,1,,1,Minor
+Ellaville,Ameris Bank,,1,,1,Minor
+Ellijay,Community & Southern Bank,,2,,2,Minor
+Ellington,Great Southern Bank,,1,,1,Minor
+Elmwood Park,"FirstMerit Bank, N.A.",,1,,1,Minor
+Englewood,"Premier American Bank, N.A.",,1,,1,Minor
+Ephraim,Far West Bank,,1,,1,Minor
+Ericson,Farmers and Merchants Bank,,1,,1,Minor
+Eugene,Home Federal Bank,,1,,1,Minor
+Evansville,Old National Bank,,1,,1,Minor
+Everett,"Union Bank, N.A.",,1,,1,Minor
+Fairfax,Palmetto State Bank,,1,,1,Minor
+Farmington Hills,Level One Bank,,2,,2,Minor
+Fayetteville,United Community Bank,,1,,1,Minor
+Flagstaff,Sunwest Bank,,1,,1,Minor
+Forest Lake,Central Bank,First Resource Bank,1,1.0,2,Moderate
+Fort Deposit,First Citizens Bank,,1,,1,Minor
+Fort Lauderdale,EverBank,"Landmark Bank, National Association",1,1.0,2,Moderate
+Fort Lee,Alma Bank,,1,,1,Minor
+Fort Myers,C1 Bank,Central Bank,1,1.0,2,Moderate
+Fort Pierce,"TD Bank, N.A.",,1,,1,Minor
+Fort Walton Beach,"United Fidelity Bank, fsb",,1,,1,Minor
+Franklin,"CertusBank, National Association",Republic Bank & Trust Company,1,1.0,2,Moderate
+Freedom,Alva State Bank & Trust Company,,1,,1,Minor
+Gaithersburg,Sonabank,,1,,1,Minor
+Geneva,Inland Bank & Trust,,1,,1,Minor
+Germantown,No Acquirer,,1,,1,Minor
+Gilbert,MidFirst Bank,,1,,1,Minor
+Glasgow,Regional Missouri Bank,,1,,1,Minor
+Glenwood,"MB Financial Bank, N.A.",,1,,1,Minor
+Gold Canyon,"First Scottsdale Bank, National Association",,1,,1,Minor
+Gordon,Morris Bank,,1,,1,Minor
+Graceville,First Federal Bank of Florida,,1,,1,Minor
+Granite Bay,Tri Counties Bank,,1,,1,Minor
+Gravette,Delta Trust & Bank,,1,,1,Minor
+Gray,State Bank and Trust Company,,2,,2,Minor
+Greeley,"Bank Midwest, N.A.",No Acquirer,1,1.0,2,Moderate
+Greenwood Village,"Bank Midwest, N.A.",,1,,1,Minor
+Hallock,United Valley Bank,,1,,1,Minor
+Hamtramck,First Michigan Bank,,1,,1,Minor
+Hancock,"Community Development Bank, FSB",,1,,1,Minor
+Harvey,United Central Bank,,1,,1,Minor
+Hastings,Commercial Bank,,1,,1,Minor
+Hato Rey,Scotiabank de Puerto Rico,,1,,1,Minor
+Henderson,Bank of Nevada,JP Morgan Chase Bank,1,1.0,3,Moderate
+Hiawassee,Citizens South Bank,,1,,1,Minor
+Hinsdale,"Superior Federal, FSB",,1,,1,Minor
+Hoffman Estates,"Barrington Bank & Trust Company, National Association",,1,,1,Minor
+Honolulu,Bank of the Orient,,1,,1,Minor
+Horsham,First Choice Bank,,1,,1,Minor
+Houston,Prosperity Bank,U.S. Bank N.A.,1,1.0,2,Moderate
+Hume,Security Bank,,1,,1,Minor
+Huntingdon Valley,"Capital Bank, N.A.",,1,,1,Minor
+Immokalee,"Premier American Bank, N.A.",,1,,1,Minor
+Irondale,Beal Bank,,1,,1,Minor
+Irvine,Sunwest Bank,,1,,1,Minor
+Jackson,Hamilton State Bank,United Bank,1,1.0,2,Moderate
+Jacksonville,Ameris Bank,"CenterState Bank of Florida, N.A.",1,1.0,2,Moderate
+Jasper,Renasant Bank,Stearns Bank N.A.,1,1.0,2,Moderate
+Jefferson City,Providence Bank,,1,,1,Minor
+Johnston,Grinnell State Bank,,1,,1,Minor
+Jonesboro,State Bank and Trust Company,,1,,1,Minor
+Jupiter,Stonegate Bank,,1,,1,Minor
+Kansas City,Great American Bank,Liberty Bank and Trust Company,1,1.0,2,Moderate
+Kaysville,No Acquirer,,1,,1,Minor
+Kennesaw,Bank of North Georgia,,1,,1,Minor
+Kenosha,"North Shore Bank, FSB",,1,,1,Minor
+Ketchum,"U.S. Bank, N.A.",,1,,1,Minor
+Key West,Centennial Bank,,1,,1,Minor
+King of Prussia,First-Citizens Bank & Trust Company,,1,,1,Minor
+Kingfisher,F & M Bank,,1,,1,Minor
+Kingstree,"First Citizens Bank and Trust Company, Inc.",,1,,1,Minor
+Knoxville,"U.S. Bank, N.A.",,1,,1,Minor
+La Coste,Community National Bank,,1,,1,Minor
+La Jolla,City National Bank,"OneWest Bank, FSB",1,1.0,2,Moderate
+LaGrange,HeritageBank of the South,,1,,1,Minor
+Lacey,First-Citizens Bank & Trust Company,,1,,1,Minor
+Lacombe,First NBC Bank,,1,,1,Minor
+Lakeview,The Citizens Banking Company,,1,,1,Minor
+Lantana,IBERIABANK,,1,,1,Minor
+Las Vegas,City National Bank,No Acquirer,2,1.0,4,Moderate
+Lawrenceville,Ameris Bank,,1,,1,Minor
+Layton,Cache Valley Bank,,1,,1,Minor
+Leawood,Metcalf Bank,,1,,1,Minor
+Leeton,"Sunflower Bank, N.A.",,1,,1,Minor
+Lemont,U.S. Bank N.A.,,1,,1,Minor
+Lenoir,"CertusBank, National Association",,1,,1,Minor
+Lexington,Your Community Bank,,1,,1,Minor
+Lincoln,Great Western Bank,,1,,1,Minor
+Lincolnwood,Republic Bank of Chicago,,1,,1,Minor
+Lino Lakes,Farmers & Merchants Savings Bank,,1,,1,Minor
+Little Falls,No Acquirer,,1,,1,Minor
+Loganville,Bank of Essex,,1,,1,Minor
+Longview,Heritage Bank,Twin City Bank,1,1.0,2,Moderate
+Los Angeles,First-Citizens Bank & Trust Company,Pacific Western Bank,1,1.0,4,Moderate
+Louisa,Kentucky Farmers Bank Corporation,,1,,1,Minor
+Louisville,"First Financial Bank, N.A.",No Acquirer,1,1.0,2,Moderate
+Loup City,Heritage Bank,,1,,1,Minor
+Lowell,People's United Bank,,1,,1,Minor
+Lutz,Centennial Bank,,1,,1,Minor
+Lynchburg,Clayton Bank and Trust,,1,,1,Minor
+Lynnwood,Whidbey Island Bank,,1,,1,Minor
+Macomb,Morton Community Bank,,1,,1,Minor
+Macon,"CertusBank, National Association",State Bank and Trust Company,1,1.0,2,Moderate
+Madisonville,U.S. Bank N.A.,,1,,1,Minor
+Malta,North Valley Bank,,1,,1,Minor
+Manchester,Southern New Hampshire Bank & Trust,,1,,1,Minor
+Mankato,BankVista,,1,,1,Minor
+Maple Grove,Great Southern Bank,,1,,1,Minor
+Marco Island,Mutual of Omaha Bank,,1,,1,Minor
+Marianna,First Federal Bank of Florida,,1,,1,Minor
+Marietta,Fidelity Bank,,1,,1,Minor
+Martinsville,"River Community Bank, N.A.",,1,,1,Minor
+Maumee,Buckeye State Bank,,1,,1,Minor
+Mayaguez,Banco Popular de Puerto Rico,,1,,1,Minor
+Maywood,Seaway Bank and Trust Company,,1,,1,Minor
+McCaysville,Peoples Bank of East Tennessee,,1,,1,Minor
+McDonough,No Acquirer,Regions Bank,1,1.0,2,Moderate
+Memphis,The Bank of Fayette County,,1,,1,Minor
+Merced,Westamerica Bank,,1,,1,Minor
+Mesa,Commerce Bank of Arizona,Enterprise Bank & Trust,1,1.0,2,Moderate
+Metropolis,Banterra Bank of Marion,,1,,1,Minor
+Miami,1st United Bank,Israel Discount Bank of New York,1,1.0,4,Moderate
+Milford,Foundation Bank,,1,,1,Minor
+Milton,CharterBank,,1,,1,Minor
+Milwaukee,First-Citizens Bank & Trust Company,Seaway Bank and Trust Company,2,1.0,3,Moderate
+Moline,Great Southern Bank,,1,,1,Minor
+Montgomery,"Branch Banking & Trust Company, (BB&T)",,1,,1,Minor
+Mount Clemens,Talmer Bank & Trust,,1,,1,Minor
+Mulberry,Today's Bank,,1,,1,Minor
+Myrtle Beach,Bank of North Carolina,,1,,1,Minor
+Napa,Bank of Marin,,1,,1,Minor
+Naperville,Wheaton Bank & Trust,,1,,1,Minor
+Naples,Stonegate Bank,EverBank,2,1.0,5,Moderate
+Nevada City,Tri Counties Bank,,1,,1,Minor
+New Baltimore,No Acquirer,,1,,1,Minor
+New Orleans,Whitney Bank,,1,,1,Minor
+New Prague,Roundbank,,1,,1,Minor
+New York,Valley National Bank,"Flagstar Bank, N.A.",2,1.0,3,Moderate
+Newark,Industrial Bank,No Acquirer,1,1.0,2,Moderate
+Newnan,CharterBank,United Bank,1,1.0,2,Moderate
+Newport Beach,Mutual of Omaha Bank,"U.S. Bank, N.A.",1,1.0,2,Moderate
+Norcross,State Bank and Trust Company,,1,,1,Minor
+Norfolk,Southern Bank and Trust Company,,1,,1,Minor
+Normal,Heartland Bank and Trust Company,,1,,1,Minor
+North Las Vegas,Plaza Bank,,1,,1,Minor
+North Lauderdale,Banesco USA,,1,,1,Minor
+Northfork,"The Citizens Savings Bank ********** Pioneer Community Bank, Inc.",,1,,1,Minor
+Northville,Monroe Bank & Trust,,1,,1,Minor
+Oak Forest,"MB Financial Bank, N.A.",,1,,1,Minor
+Oakdale,"Alerus Financial, N.A.",,1,,1,Minor
+Oakland,Center Bank,,1,,1,Minor
+Oakwood,The State Bank & Trust Company,,1,,1,Minor
+Ocala,"CenterState Bank of Florida, N.A.",,2,,2,Minor
+Ogden,No Acquirer,,1,,1,Minor
+Olathe,Enterprise Bank & Trust,Simmons First National Bank,1,1.0,2,Moderate
+Omaha,Premier Bank,,1,,1,Minor
+Orange Park,FirstAtlantic Bank,,1,,1,Minor
+Oregon,The Harvard State Bank,,1,,1,Minor
+Orland Park,"FirstMerit Bank, N.A.",,1,,1,Minor
+Orlando,Centennial Bank,First Southern Bank,1,1.0,2,Moderate
+Otsego,Central Bank,,1,,1,Minor
+Overland Park,Arvest Bank,"Hillcrest Bank, N.A.",1,1.0,2,Moderate
+Palatka,Harbor Community Bank,"TD Bank, N.A.",1,1.0,2,Moderate
+Palm Beach,"Sabadell United Bank, N.A.",,1,,1,Minor
+Palm Desert,"Bank of Southern California, N.A.",Pacific Premier Bank,1,1.0,2,Moderate
+Palm Springs,Pacific Premier Bank,,1,,1,Minor
+Palos Heights,First Midwest Bank,,1,,1,Minor
+Panama City,Hancock Bank,,1,,1,Minor
+Panama City Beach,Centennial Bank,,1,,1,Minor
+Paola,Great Southern Bank,,1,,1,Minor
+Parma,The National Bank and Trust Company,,1,,1,Minor
+Parsons,"CB&S Bank, Inc.",,1,,1,Minor
+Pasadena,"OneWest Bank, FSB",,1,,1,Minor
+Pawleys Island,First Federal Bank,,1,,1,Minor
+Peachtree City,Fidelity Bank,,1,,1,Minor
+Pennsville,First-Citizens Bank & Trust Company,,1,,1,Minor
+Peotone,First Midwest Bank,,1,,1,Minor
+Perry,State Bank and Trust Company,,1,,1,Minor
+Philadelphia,Earthstar Bank,,1,,1,Minor
+Phoenix,"First Fidelity Bank, National Association",MidFirst Bank,1,1.0,6,Moderate
+Pine City,"Stearns Bank, N.A.",,1,,1,Minor
+Pittsburgh,Allegheny Valley Bank of Pittsburgh,"PNC Bank, N.A.",1,1.0,2,Moderate
+Pittsfield,The Carlinville National Bank,,1,,1,Minor
+Plano,American First National Bank,,1,,1,Minor
+Plymouth,Bank of Ann Arbor,,1,,1,Minor
+Pomona,"U.S. Bank, N.A.",,1,,1,Minor
+Ponte Vedra Beach,First Southern Bank,,1,,1,Minor
+Port Chester,New Century Bank,,1,,1,Minor
+Port Huron,First Michigan Bank,,1,,1,Minor
+Port Orange,"Premier American Bank, N.A.",,1,,1,Minor
+Port Saint Joe,Centennial Bank,,1,,1,Minor
+Port St. Lucie,"Premier American Bank, N.A.",,1,,1,Minor
+Prescott,The Foothills Bank,,1,,1,Minor
+Princeton,Heartland Bank and Trust Company,,1,,1,Minor
+Prineville,Home Federal Bank,,1,,1,Minor
+Pueblo,Legacy Bank,,1,,1,Minor
+Racine,Tri City National Bank,,1,,1,Minor
+Rancho Cucamonga,California Bank & Trust,,1,,1,Minor
+Randallstown,Manufacturers and Traders Trust Company (M&T Bank),,1,,1,Minor
+Redlands,First California Bank,,1,,1,Minor
+Reidsville,Heritage Bank of the South,,1,,1,Minor
+Reno,Mutual of Omaha Bank,Umpqua Bank,1,1.0,2,Moderate
+Reston,Sonabank,,1,,1,Minor
+Richmond,Xenith Bank,,1,,1,Minor
+Ridgewood,North Jersey Community Bank,,1,,1,Minor
+Rising Sun,Howard Bank,,1,,1,Minor
+Rock Spring,"Stearns Bank, N.A.",,1,,1,Minor
+Rockford,Harris N.A.,,1,,1,Minor
+Rockmart,Century Bank of Georgia,,1,,1,Minor
+Rolling Meadows,No Acquirer,,1,,1,Minor
+Rosedale,The Jefferson Bank,,1,,1,Minor
+Rosemount,Central Bank,,1,,1,Minor
+Roswell,Renasant Bank,,1,,1,Minor
+Saint Elmo,"United Fidelity Bank, fsb",,1,,1,Minor
+Saint George,Cache Valley Bank,,1,,1,Minor
+Saint Marys,Ameris Bank,,1,,1,Minor
+Saint Paul,Coulee Bank,,1,,1,Minor
+Salt Lake City,No Acquirer,,1,,1,Minor
+San Clemente,Sunwest Bank,,1,,1,Minor
+San Diego,City National Bank,U.S. Bank N.A.,1,1.0,2,Moderate
+San Francisco,East West Bank,"JPMorgan Chase Bank, N.A.",1,1.0,3,Moderate
+San Juan,Banco Popular de Puerto Rico,Oriental Bank and Trust,1,1.0,2,Moderate
+San Luis Obispo,First California Bank,,1,,1,Minor
+San Rafael,"Union Bank, N.A.",,1,,1,Minor
+Sanderson,The Pecos County State Bank,,1,,1,Minor
+Santa Clara,FirstCitizens Bank & Trust Company,,1,,1,Minor
+Santa Fe,Charter Bank,,1,,1,Minor
+Santa Monica,"OneWest Bank, FSB",,1,,1,Minor
+Sarasota,American Momentum Bank,IBERIABANK,1,1.0,3,Moderate
+Savannah,"The Savannah Bank, N.A.",,1,,1,Minor
+Scottsdale,Enterprise Bank & Trust,No Acquirer,1,1.0,4,Moderate
+Seattle,East West Bank,Umpqua Bank,1,1.0,2,Moderate
+Sedalia,Simmons First National Bank,,1,,1,Minor
+Sevierville,"First Tennessee Bank, National Association",,1,,1,Minor
+Shabbona,First State Bank,,1,,1,Minor
+Shelby Township,No Acquirer,,1,,1,Minor
+Shelbyville,"First Merchants Bank, National Association",,1,,1,Minor
+Shoreline,GBC International Bank,,1,,1,Minor
+Shorewood,Heartland Bank and Trust Company,,1,,1,Minor
+Sierra Blanca,The Security State Bank of Pecos,,1,,1,Minor
+Silverton,Citizens Bank,,1,,1,Minor
+Sioux City,Great Southern Bank,,1,,1,Minor
+Sioux Falls,"Alerus Financial, N.A.",,1,,1,Minor
+Snohomish,Columbia State Bank,,1,,1,Minor
+Solvang,Pacific Western Bank,,1,,1,Minor
+Sonoma,Westamerica Bank,,1,,1,Minor
+Southampton,Polonia Bank,,1,,1,Minor
+Sparta,Ameris Bank,,1,,1,Minor
+Spartanburg,NAFH National Bank,,1,,1,Minor
+Spring Grove,Central Bank,,1,,1,Minor
+Springfield,Heritage Bank of the South,Simmons First National Bank,1,1.0,3,Moderate
+St. Charles,First State Bank,,1,,1,Minor
+St. Louis,Central Bank of Kansas City,Simmons First National Bank,1,1.0,2,Moderate
+St. Stephen,First State Bank of St. Joseph,,1,,1,Minor
+Stamford,Hudson United Bank,,1,,1,Minor
+Staples,First International Bank and Trust,,1,,1,Minor
+Statesboro,Heritage Bank of the South,,1,,1,Minor
+Sterling,WashingtonFirst Bank,,1,,1,Minor
+Sterling Heights,No Acquirer,,1,,1,Minor
+Stockbridge,Ameris Bank,Hamilton State Bank,1,1.0,3,Moderate
+Stockton,"Rabobank, N.A.",,1,,1,Minor
+Stoughton,McFarland State Bank,,1,,1,Minor
+Sugar Creek,Metcalf Bank,,1,,1,Minor
+Sunrise Beach,Bank of Sullivan,,1,,1,Minor
+Suwanee,State Bank and Trust Company,,1,,1,Minor
+Sylacauga,Southern States Bank,,1,,1,Minor
+Sylvan Grove,The Bennington State Bank,,1,,1,Minor
+Tacoma,Heritage Bank,Umpqua Bank,1,1.0,2,Moderate
+Tallahassee,Hancock Bank of Florida,,1,,1,Minor
+Tamarac,Stearns Bank N.A.,,1,,1,Minor
+Tampa,Bay Cities Bank,EverBank,1,1.0,3,Moderate
+Taos,"U.S. Bank, N.A.",,1,,1,Minor
+Teague,U.S. Bank N.A.,,1,,1,Minor
+Temecula,First-Citizens Bank & Trust Company,,1,,1,Minor
+The Dalles,Columbia State Bank,,1,,1,Minor
+The Woodlands,"Spirit of Texas Bank, SSB",,1,,1,Minor
+Thermopolis,Central Bank & Trust,,1,,1,Minor
+Tifton,Ameris Bank,,1,,1,Minor
+Topeka,Citizens Bank & Trust,,1,,1,Minor
+Torrance,Beal Bank,,1,,1,Minor
+University Place,Sunwest Bank,,1,,1,Minor
+Valdosta,Bank of the Ozarks,Synovus Bank,1,1.0,2,Moderate
+Vancouver,Umpqua Bank,,1,,1,Minor
+Venice,"Stearns Bank, N.A.",,1,,1,Minor
+Ventura,Pacific Western Bank,,1,,1,Minor
+Vidalia,Ameris Bank,,1,,1,Minor
+Villa Rica,No Acquirer,,1,,1,Minor
+Warren,The Huntington National Bank,,1,,1,Minor
+Watkinsville,BankSouth,,1,,1,Minor
+Waukegan,First Midwest Bank,,1,,1,Minor
+Wausau,Nicolet National Bank,,1,,1,Minor
+West Allis,"North Shore Bank, FSB",,1,,1,Minor
+West Chester,"First Financial Bank, N.A.",,1,,1,Minor
+West Chicago,Republic Bank of Chicago,,1,,1,Minor
+Western Springs,Heartland Bank and Trust Company,,1,,1,Minor
+Westminster,Grandpoint Bank,,1,,1,Minor
+Westmont,First Midwest Bank,,1,,1,Minor
+White Plains,Union State Bank,,1,,1,Minor
+Whiteville,First Community Bank,,1,,1,Minor
+Williamsville,"Evans Bank, N.A.",,1,,1,Minor
+Wilmette,International Bank of Chicago,,1,,1,Minor
+Wilmington,First Bank,First Federal Savings and Loan Association,1,1.0,2,Moderate
+Winchester,The First National Bank of Beardstown,,1,,1,Minor
+Winder,Community & Southern Bank,First American Bank and Trust Company,1,1.0,2,Moderate
+Windsor,Points West Community Bank,,1,,1,Minor
+Winter Park,"Florida Community Bank, a division of Premier American Bank, N.A.",,1,,1,Minor
+Wood Dale,Advantage National Bank Group,,1,,1,Minor
+Woodbury,CorTrust Bank N.A.,United Bank,1,1.0,2,Moderate
+Woodland Hills,First California Bank,,1,,1,Minor
+Woodstock,Community & Southern Bank,Georgia Commerce Bank,1,1.0,3,Moderate
+Worth,The PrivateBank and Trust Company,,1,,1,Minor
+Wyoming,Central Bank,,1,,1,Minor
